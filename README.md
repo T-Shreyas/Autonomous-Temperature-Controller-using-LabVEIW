@@ -7,12 +7,14 @@ This can be used to control the cooling systems of temperature-critical applicat
 The temperature and humidity are being represented in the form of a graph in LabVIEW.
 
 **Block Diagram-1**: *Interfacing Hardware and Software*
+
 ![](Images/image1.JPG)
 
 **Block Diagram-2**: *Input output -block diagram*
+
 ![](Images/image2.JPG)
 
-**SOFTWARE REQUIREMENTS:**
+**Software Requirements:**
 
 **1.LABVEIW:** **Lab**oratory **V**irtual **I**nstrumentation **E**ngineering **W**orkbench
 LabVIEW is a software development environment and language created by National Instruments.Its key innovation is that it uses graphical diagrams rather than lines of text which makes it more intuitive for engineers and excellent for parallel programming.
@@ -20,7 +22,7 @@ LabVIEW is a software development environment and language created by National I
 **2.Arduino IDE:**
 The Arduino Integrated Development Environment - or Arduino Software (IDE) – is an open-source software which contains a text editor for writing code, a message area, a text console, a toolbar with buttons forcommon functions and a series of menus. It connects to the Arduino and Genuino hardware to upload programs and communicate with them. 
 
- **HARDWARE REQUIREMENTS:**
+ **Hardware Requirements:**
  
 i. Development board: Arduino Uno
 
@@ -36,15 +38,15 @@ vi. Jumper cables
 
 vii. 12V /2A DC power supply
 
-***CIRCUIT DESIGN:***
+***Circuit Design:***
 
 ![](Images/image3.JPG)
 
-***PRACTICALLY IMPLIMENTED FULLY FUNCTIONAL CIRCUIT***
+***Practically Implimented fully functional circuit:***
 
 ![](Images/image4.JPG)
 
-**DESIGN OF OUR CIRCUIT’S FRONT PANEL WINDOW IN LABVIEW:**
+**Design of our Circuit's Front Panel Window in LABVIEW:**
 
 *Case I: Temperature is equal to Threshold Temperature(19ºC)*
 
@@ -55,21 +57,24 @@ vii. 12V /2A DC power supply
 ![](Images/image7.JPG)
 
 
-**CIRCUIT’S BLOCK DIAGRAM WINDOW:**
- **Arduino serial communication:**
+**Circuit’s Block Diagram Window:**
+
+***Arduino serial communication:***
+
 • Serial port connected to Arduino: COM5
+
 • Bytes to be read from Arduino Serial port:2
 
 • The VI’s are arranged in this following manner in block diagram window of the LabVIEW software to run in front panel.
 
 ![](Images/image5.JPG)
 
-*VI’s USED IN DESIGNING OUR INTERFACED CIRCUIT IN LabVIEW:*
+*VI’s used in designing our Interfaced circuit in LabVIEW:*
 
 ![](Images/image8.JPG)
 
 
-**WORKING PRINCIPLE:**
+**Working Principle:**
 
 • Within the sensor, temperature gives rise to a potential difference which is proportional to the temperature.
 
@@ -81,24 +86,33 @@ vii. 12V /2A DC power supply
 
 • It also determines whether the fans are ‘on’ or not and indicates the same on the front panel.
 
-**Results:**
+**Results:**
 
 An automatic temperature controller has thus been successfully assembled and demonstrated using Arduino with LabVIEW as the interface between the board and the PC.
 
 **Advantages & Disadvantages:**
+
  **Advantages:**
+
 • Little to no human intervention, resulting in a very low probability for errors.
+
 • Offers the possibility of connecting other devices to the same platform with ease.
+
 • Safely reduces the temperature to the threshold temperature in case report system heats up.
 
  **Disadvantages:**
+
 • Expensive and not cost-efficient.
 
 
 **Applications:**
 
 • Used as Fan controllers in computers.
+
 • Controller for cooling systems such as air-conditioners in buildings.
+
 • Controllers for cooling systems in nuclear reactors.
+
 • Climate control systems in automobiles.
+
 • Used in Smart home Air conditioning systems.
