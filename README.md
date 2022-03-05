@@ -5,5 +5,6 @@ By continuously monitoring the temperature of a system, the project aims to cont
 This can be used to control the cooling systems of temperature-critical applications such as in nuclear power plants. 
 
 The temperature and humidity are being represented in the form of a graph in LabVIEW.
+
 Block Diagram1:Interfacing Hardware and Software
 ![](Images/image1.JPG)
