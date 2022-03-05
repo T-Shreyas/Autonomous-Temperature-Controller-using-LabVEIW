@@ -22,11 +22,17 @@ The Arduino Integrated Development Environment - or Arduino Software (IDE) – i
 
  **HARDWARE REQUIREMENTS:**
 i. Development board: Arduino Uno
+
 ii. Motor Driver: L298N H-Bridge motor driver
+
 iii. Temperature controller: 2 x PC Cabinet Fans
+
 iv. Temperature sensor: DHT11
+
 v. Breadboard
+
 vi. Jumper cables
+
 vii. 12V /2A DC power supply
 
 ***CIRCUIT DESIGN:***
