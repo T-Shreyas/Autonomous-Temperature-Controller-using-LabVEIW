@@ -1,12 +1,11 @@
 /*Autonomous Temperature Controller
 Developed by T Shreyas
 Aim: To develop a self-sensing temperature controller
-This program demonstrates a temperature controller which first senses the room temperature, and if the temperature is greater than or equal 
-to 20-degree Celsius turns on the fans connected to the motor driver*/
+This program demonstrates a temperature controller which first senses the room temperature, and if the temperature is greater than or equal to 20-degree Celsius turns on the fans connected to the motor driver*/
 //Header file inclusions
 #include "dht.h" //Header file containing functions to work with the DHT11 temperature and humidity sensors
 //Constant definitions
-#define dht_apin A0 // Analog Pin sensor is connected to
+#define dht_apin A0 
 #define In1 9 //Positive pin for fan 1
 #define In2 8 //Negative pin for fan 1
 #define In3 7 //Positive pin for fan 2
