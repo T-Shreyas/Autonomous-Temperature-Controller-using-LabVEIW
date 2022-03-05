@@ -11,3 +11,14 @@ The temperature and humidity are being represented in the form of a graph in Lab
 
 **Block Diagram-2**: *Input output -block diagram*
 ![](Images/image2.JPG)
+
+**SOFTWARE REQUIREMENTS:**
+**1.LABVEIW:** **Lab**oratory **V**irtual **I**nstrumentation **E**ngineering **W**orkbench
+LabVIEW is a software development environment and language created by National Instruments.Its key innovation is that it uses graphical diagrams rather than lines of text which makes it
+more intuitive for engineers and excellent for parallel programming.
+
+**2.Arduino IDE:**
+The Arduino Integrated Development Environment - or Arduino Software (IDE) – is an open-source software which contains a text editor for writing code, a message area, a text console, a
+toolbar with buttons forcommon functions and a series of menus. It connects to the Arduino and Genuino hardware to upload programs and communicate with them. 
+
+ **HARDWARE REQUIREMENTS:**
