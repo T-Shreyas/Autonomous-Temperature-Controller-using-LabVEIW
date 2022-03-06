@@ -1,5 +1,5 @@
-<div style="text-align: justify">
 # Autonomous-Temperature-Controller
+
 In this project i have built a system that can monitor the temperature of a system and trigger a mechanism to control it using Arduino, with LabVIEW as the interface.
 
 By continuously monitoring the temperature of a system, the project aims to control the temperature such that it is within a specified range.
@@ -51,23 +51,23 @@ vii. 12V /2A DC power supply
 
 | ![](Images/image3.JPG) | 
 |:--:| 
-|  ***Circuit Design:*** |
+|  ***Circuit Design*** |
 
 
 | ![](Images/image4.JPG) |
 | :--: |
-| ***Practically Implimented fully functional circuit:*** |
+| ***Practically Implimented fully functional circuit*** |
 
 ➢ **Design of our Circuit's Front Panel Window in LABVIEW:**
 
-*Case I: Temperature is equal to Threshold Temperature(19ºC)*
+| ![](Images/image6.JPG) |
+| :--: |
+| *Case I: Temperature is equal to Threshold Temperature(19ºC)* |
 
-![](Images/image6.JPG)
 
-*Case II: Temperature is above Threshold Temperature (20ºC >19ºC)*
-
-![](Images/image7.JPG)
-
+| ![](Images/image7.JPG) |
+| :--: |
+| *Case II: Temperature is above Threshold Temperature (20ºC >19ºC)* |
 
 ➢ **Circuit’s Block Diagram Window:**
 
@@ -79,12 +79,15 @@ vii. 12V /2A DC power supply
 
 • The VI’s are arranged in this following manner in block diagram window of the LabVIEW software to run in front panel.
 
-![](Images/image5.JPG)
+| ![](Images/image5.JPG) |
+| :--: |
+| *LABVEIW BLock Diagram* |
 
 ➢ **VI’s used in designing our Interfaced circuit in LabVIEW:**
 
-![](Images/image8.JPG)
-
+| ![](Images/image8.JPG) |
+| :--: |
+| *VI's used* |
 
 ➢ **Working Principle:**
 
