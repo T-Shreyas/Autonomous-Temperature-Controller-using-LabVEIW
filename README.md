@@ -1,4 +1,4 @@
-# Autonomous-Temperature-Controller
+# Autonomous-Temperature-Controller using LabVEIW
 <p align="justify">
 • In this project i have built a system that can monitor the temperature of a system and trigger a mechanism to control it using Arduino, with LabVIEW as the interface.
 
@@ -22,7 +22,7 @@
 | **Block Diagram-2**: *Input output -block diagram* |
 
 
-## **Software Requirements:**
+## ➢ **Software Requirements:**
 
 **1.LABVEIW:** **Lab**oratory **V**irtual **I**nstrumentation **E**ngineering **W**orkbench
 
@@ -37,7 +37,7 @@ The Arduino Integrated Development Environment - or Arduino Software (IDE) – i
 </p>
 
 
-## **Hardware Requirements:**
+## ➢ **Hardware Requirements:**
  
 i. Development board: Arduino Uno
 
@@ -66,7 +66,7 @@ vii. 12V /2A DC power supply
 | ***Practically Implimented fully functional circuit*** |
 
 
-### **Design of our Circuit's Front Panel Window in LABVIEW:**
+### ➢ **Design of our Circuit's Front Panel Window in LABVIEW:**
 
 | ![](Images/image6.JPG) |
 | :--: |
@@ -77,7 +77,7 @@ vii. 12V /2A DC power supply
 | :--: |
 | *Case II: Temperature is above Threshold Temperature (20ºC >19ºC)* |
 
-➢ **Circuit’s Block Diagram Window:**
+## ➢ **Circuit’s Block Diagram Window:**
 
 ***Arduino serial communication:***
 
@@ -94,7 +94,7 @@ vii. 12V /2A DC power supply
 | *LABVEIW BLock Diagram* |
 
 
-### **VI’s used in designing our Interfaced circuit in LabVIEW:**
+### ➢ **VI’s used in designing our Interfaced circuit in LabVIEW:**
 
 
 | ![](Images/image8.JPG) |
@@ -115,12 +115,12 @@ vii. 12V /2A DC power supply
 • It also determines whether the fans are ‘on’ or not and indicates the same on the front panel.
 </p>
 
-## **Results:**
+## ➢ **Results:**
 
 An automatic temperature controller has thus been successfully assembled and demonstrated using Arduino with LabVIEW as the interface between the board and the PC.
 
 
-## **Advantages & Disadvantages:**
+## ➢ **Advantages & Disadvantages:**
 
 ➢ **Advantages:**
 
@@ -136,7 +136,7 @@ An automatic temperature controller has thus been successfully assembled and dem
 
 
 
-## **Applications:**
+## ➢ **Applications:**
 
 • Used as Fan controllers in computers.
 
