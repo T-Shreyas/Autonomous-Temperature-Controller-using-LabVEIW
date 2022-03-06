@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 # Autonomous-Temperature-Controller
 In this project i have built a system that can monitor the temperature of a system and trigger a mechanism to control it using Arduino, with LabVIEW as the interface.
 
