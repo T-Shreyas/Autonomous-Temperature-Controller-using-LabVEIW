@@ -1,11 +1,12 @@
 # Autonomous-Temperature-Controller
 
-In this project i have built a system that can monitor the temperature of a system and trigger a mechanism to control it using Arduino, with LabVIEW as the interface.
+• In this project i have built a system that can monitor the temperature of a system and trigger a mechanism to control it using Arduino, with LabVIEW as the interface.
 
-By continuously monitoring the temperature of a system, the project aims to control the temperature such that it is within a specified range.
-This can be used to control the cooling systems of temperature-critical applications such as in nuclear power plants. 
+• By continuously monitoring the temperature of a system, the project aims to control the temperature such that it is within a specified range.
 
-The temperature and humidity are being represented in the form of a graph in LabVIEW.
+• This can be used to control the cooling systems of temperature-critical applications such as in nuclear power plants. 
+
+• The temperature and humidity are being represented in the form of a graph in LabVIEW.
 
 <!---  **Block Diagram-1**: *Interfacing Hardware and Software*-->
 
@@ -25,12 +26,14 @@ The temperature and humidity are being represented in the form of a graph in Lab
 
 **1.LABVEIW:** **Lab**oratory **V**irtual **I**nstrumentation **E**ngineering **W**orkbench
 
-<div style="text-align: justify"> LabVIEW is a software development environment and language created by National Instruments.Its key innovation is that it uses graphical diagrams rather than lines of text which makes it more intuitive for engineers and excellent for parallel programming. </div>
+LabVIEW is a software development environment and language created by National Instruments.Its key innovation is that it uses graphical diagrams rather than lines of text which makes it more intuitive for engineers and excellent for parallel programming.
 
 
 **2.Arduino IDE:**
 
-<div style="text-align: justify"> The Arduino Integrated Development Environment - or Arduino Software (IDE) – is an open-source software which contains a text editor for writing code, a message area, a text console, a toolbar with buttons forcommon functions and a series of menus. It connects to the Arduino and Genuino hardware to upload programs and communicate with them.  </div>
+The Arduino Integrated Development Environment - or Arduino Software (IDE) – is an open-source software which contains a text editor for writing code, a message area, a text console, a toolbar with buttons forcommon functions and a series of menus. It connects to the Arduino and Genuino hardware to upload programs and communicate with them. 
+
+
 
 ➢ **Hardware Requirements:**
  
@@ -49,14 +52,17 @@ vi. Jumper cables
 vii. 12V /2A DC power supply
 
 
+
 | ![](Images/image3.JPG) | 
 |:--:| 
 |  ***Circuit Design*** |
 
 
+
 | ![](Images/image4.JPG) |
 | :--: |
 | ***Practically Implimented fully functional circuit*** |
+
 
 ➢ **Design of our Circuit's Front Panel Window in LABVIEW:**
 
@@ -83,11 +89,13 @@ vii. 12V /2A DC power supply
 | :--: |
 | *LABVEIW BLock Diagram* |
 
+
 ➢ **VI’s used in designing our Interfaced circuit in LabVIEW:**
 
 | ![](Images/image8.JPG) |
 | :--: |
 | *VI's used* |
+
 
 ➢ **Working Principle:**
 
@@ -101,9 +109,11 @@ vii. 12V /2A DC power supply
 
 • It also determines whether the fans are ‘on’ or not and indicates the same on the front panel.
 
+
 ➢ **Results:**
 
 An automatic temperature controller has thus been successfully assembled and demonstrated using Arduino with LabVIEW as the interface between the board and the PC.
+
 
 **Advantages & Disadvantages:**
 
@@ -118,6 +128,7 @@ An automatic temperature controller has thus been successfully assembled and dem
 ➢ **Disadvantages:**
 
 • Expensive and not cost-efficient.
+
 
 
 ➢ **Applications:**
