@@ -6,9 +6,9 @@ This can be used to control the cooling systems of temperature-critical applicat
 
 The temperature and humidity are being represented in the form of a graph in LabVIEW.
 
- **Block Diagram-1**: *Interfacing Hardware and Software*
+<! ---  **Block Diagram-1**: *Interfacing Hardware and Software*
 
-![](Images/image1.JPG)
+![**Block Diagram-1**: *Interfacing Hardware and Software*](Images/image1.JPG)
 
  **Block Diagram-2**: *Input output -block diagram*
 
