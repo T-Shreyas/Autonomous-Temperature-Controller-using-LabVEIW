@@ -8,7 +8,7 @@ The temperature and humidity are being represented in the form of a graph in Lab
 
 <!---  **Block Diagram-1**: *Interfacing Hardware and Software*-->
 
-![**Block Diagram-1**: *Interfacing Hardware and Software*](Images/image1.JPG "Magic")
+![Block Diagram-1: Interfacing Hardware and Software](Images/image1.JPG "Magic")
 
  **Block Diagram-2**: *Input output -block diagram*
 
