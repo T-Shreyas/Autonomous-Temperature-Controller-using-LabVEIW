@@ -26,8 +26,9 @@
 
 **1.LABVEIW:** **Lab**oratory **V**irtual **I**nstrumentation **E**ngineering **W**orkbench
 
+<p align="justify">
 LabVIEW is a software development environment and language created by National Instruments.Its key innovation is that it uses graphical diagrams rather than lines of text which makes it more intuitive for engineers and excellent for parallel programming.
-
+</p>
 
 **2.Arduino IDE:**
 
@@ -95,10 +96,6 @@ vii. 12V /2A DC power supply
 | ![](Images/image8.JPG) |
 | :--: |
 | *VI's used* |
-
-<p align="center">
-  <src="Images/image8.JPG">
-</p>
 
 ➢ **Working Principle:**
 
