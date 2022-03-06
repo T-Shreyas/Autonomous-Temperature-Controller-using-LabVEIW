@@ -97,7 +97,7 @@ vii. 12V /2A DC power supply
 | *VI's used* |
 
 <p align="center">
-  <img width="600" height="200" src="Images/image8.JPG">
+  <src="Images/image8.JPG">
 </p>
 
 ➢ **Working Principle:**
