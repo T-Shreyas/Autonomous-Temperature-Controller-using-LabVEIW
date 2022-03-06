@@ -96,9 +96,11 @@ vii. 12V /2A DC power supply
 
 ➢ **VI’s used in designing our Interfaced circuit in LabVIEW:**
 
+<p align="justify">
 | ![](Images/image8.JPG) |
 | :--: |
 | *VI's used* |
+</p>
 
 ➢ **Working Principle:**
 
