@@ -24,13 +24,13 @@
 
 ## ➢ **Software Requirements:**
 
-**1.LABVEIW:** **Lab**oratory **V**irtual **I**nstrumentation **E**ngineering **W**orkbench
+**1. LABVEIW:** **Lab**oratory **V**irtual **I**nstrumentation **E**ngineering **W**orkbench
 
 <p align="justify">
 LabVIEW is a software development environment and language created by National Instruments.Its key innovation is that it uses graphical diagrams rather than lines of text which makes it more intuitive for engineers and excellent for parallel programming.
 </p>
 
-**2.Arduino IDE:**
+**2. Arduino IDE:**
 
 <p align="justify">
 The Arduino Integrated Development Environment - or Arduino Software (IDE) – is an open-source software which contains a text editor for writing code, a message area, a text console, a toolbar with buttons forcommon functions and a series of menus. It connects to the Arduino and Genuino hardware to upload programs and communicate with them. 
@@ -101,7 +101,7 @@ vii. 12V /2A DC power supply
 | :--: |
 | *VI's used* |
 
-## **Working Principle:**
+## ➢ **Working Principle:**
 
 <p align="justify">
 • Within the sensor, temperature gives rise to a potential difference which is proportional to the temperature.
