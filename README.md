@@ -1,5 +1,5 @@
 # Autonomous-Temperature-Controller
-
+<p align="justify">
 • In this project i have built a system that can monitor the temperature of a system and trigger a mechanism to control it using Arduino, with LabVIEW as the interface.
 
 • By continuously monitoring the temperature of a system, the project aims to control the temperature such that it is within a specified range.
@@ -7,7 +7,7 @@
 • This can be used to control the cooling systems of temperature-critical applications such as in nuclear power plants. 
 
 • The temperature and humidity are being represented in the form of a graph in LabVIEW.
-
+</p>
 <!---  **Block Diagram-1**: *Interfacing Hardware and Software*-->
 
 | ![](Images/image1.JPG) | 
@@ -81,11 +81,13 @@ vii. 12V /2A DC power supply
 
 ***Arduino serial communication:***
 
+<p align="justify">
 • Serial port connected to Arduino: COM5
 
 • Bytes to be read from Arduino Serial port:2
 
 • The VI’s are arranged in this following manner in block diagram window of the LabVIEW software to run in front panel.
+</p>
 
 | ![](Images/image5.JPG) |
 | :--: |
@@ -100,6 +102,7 @@ vii. 12V /2A DC power supply
 
 ➢ **Working Principle:**
 
+<p align="justify">
 • Within the sensor, temperature gives rise to a potential difference which is proportional to the temperature.
 
 • This generates a signal which is transferred to the Arduino board. 
@@ -109,7 +112,7 @@ vii. 12V /2A DC power supply
 • Inside LabVIEW, the VI reads the serial data which has the temperature readings, and outputs it in a presentable format in the form of a thermometer and a graph in the front panel. 
 
 • It also determines whether the fans are ‘on’ or not and indicates the same on the front panel.
-
+</p>
 
 ➢ **Results:**
 
