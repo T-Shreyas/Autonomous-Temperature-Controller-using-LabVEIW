@@ -22,7 +22,7 @@
 | **Block Diagram-2**: *Input output -block diagram* |
 
 
-➢ **Software Requirements:**
+## **Software Requirements:**
 
 **1.LABVEIW:** **Lab**oratory **V**irtual **I**nstrumentation **E**ngineering **W**orkbench
 
@@ -37,7 +37,7 @@ The Arduino Integrated Development Environment - or Arduino Software (IDE) – i
 </p>
 
 
-➢ **Hardware Requirements:**
+## **Hardware Requirements:**
  
 i. Development board: Arduino Uno
 
@@ -66,7 +66,7 @@ vii. 12V /2A DC power supply
 | ***Practically Implimented fully functional circuit*** |
 
 
-➢ **Design of our Circuit's Front Panel Window in LABVIEW:**
+### **Design of our Circuit's Front Panel Window in LABVIEW:**
 
 | ![](Images/image6.JPG) |
 | :--: |
@@ -94,15 +94,14 @@ vii. 12V /2A DC power supply
 | *LABVEIW BLock Diagram* |
 
 
-➢ **VI’s used in designing our Interfaced circuit in LabVIEW:**
+### **VI’s used in designing our Interfaced circuit in LabVIEW:**
 
-<p align="justify">
+
 | ![](Images/image8.JPG) |
 | :--: |
 | *VI's used* |
-</p>
 
-➢ **Working Principle:**
+## **Working Principle:**
 
 <p align="justify">
 • Within the sensor, temperature gives rise to a potential difference which is proportional to the temperature.
@@ -116,12 +115,12 @@ vii. 12V /2A DC power supply
 • It also determines whether the fans are ‘on’ or not and indicates the same on the front panel.
 </p>
 
-➢ **Results:**
+## **Results:**
 
 An automatic temperature controller has thus been successfully assembled and demonstrated using Arduino with LabVIEW as the interface between the board and the PC.
 
 
-**Advantages & Disadvantages:**
+## **Advantages & Disadvantages:**
 
 ➢ **Advantages:**
 
@@ -137,7 +136,7 @@ An automatic temperature controller has thus been successfully assembled and dem
 
 
 
-➢ **Applications:**
+## **Applications:**
 
 • Used as Fan controllers in computers.
 
